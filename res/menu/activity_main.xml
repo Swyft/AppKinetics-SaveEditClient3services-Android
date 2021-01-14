@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_send_contact"
+        android:title="@string/send_label"
+        android:showAsAction="always"/>
+    <item
+        android:id="@+id/action_send_document"
+        android:title="@string/document_label"
+        android:showAsAction="always"/>
+    <item
+        android:id="@+id/action_send_note"
+        android:title="@string/note_label"
+        android:showAsAction="always"/>
+</menu>

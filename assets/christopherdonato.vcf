@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 11.1//EN
+N:Donato;Christopher;;;
+FN:Christopher Donato
+ORG:Swyft Techonology L.L.C.;
+EMAIL;type=INTERNET;type=HOME;type=pref:christopher.donato@swyftmobile.com
+TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:9548508250
+TEL;type=WORK;type=VOICE:9045872523
+END:VCARD
