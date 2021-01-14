@@ -14,3 +14,4 @@ Support:
 https://community.blackberry.com/community/gdn/resources/developer_community
 ================================================================================
 (c) 2017 BlackBerry Limited. All rights reserved.
+(c) 2021 Swyft Technology L.L.C.
